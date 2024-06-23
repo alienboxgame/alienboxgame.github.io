@@ -1,0 +1,8 @@
+@import url("https://www.piey.ca/duality.css/duality.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.title {
+    font-family: 'Open Sans';
+    font-size: 62;
+    color:rgb(50, 77, 82);
+}
